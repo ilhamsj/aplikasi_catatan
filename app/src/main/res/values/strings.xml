@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Catatan</string>
+    <string name="edit">Edit/Hapus Data</string>
+
+    <string name="username">Username</string>
+    <string name="id">ID User</string>
+
+    <string name="button_tambah_data">Tambah Data</string>
+
+    <string name="button_simpan">Simpan</string>
+    <string name="button_update">Update Data</string>
+    <string name="button_hapus">Hapus Data</string>
+    <string name="button_home">New</string>
+
+    <string name="test">Hello World !</string>
+</resources>
